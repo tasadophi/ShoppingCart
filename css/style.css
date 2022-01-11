@@ -176,7 +176,7 @@ img {
 }
 
 .cart-content {
-  width: 50rem;
+  max-width: 50rem;
   min-height: 22rem;
   background-color: var(--mainWhite);
   position: fixed;
