@@ -235,6 +235,11 @@ img {
   cursor: pointer;
 }
 
+.total-price{
+  font-size: 1.5rem;
+  margin-right: 2rem;
+}
+
 .cart-btns {
   display: flex;
   justify-content: flex-end;
