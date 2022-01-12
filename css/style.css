@@ -176,16 +176,22 @@ img {
 }
 
 .cart-content {
-  max-width: 50rem;
+  max-width: 30rem;
   min-height: 22rem;
   background-color: var(--mainWhite);
-  position: fixed;
+  position: absolute;
   z-index: 10;
   left: 50%;
   transform: translateX(-50%);
   top: -100rem;
   border-radius: 8px;
   transition: var(--mainTransition);
+}
+
+@media screen and (min-width: 1024px) {
+  .cart-content{
+    max-width: 60rem;
+  }
 }
 
 .cart-items{
