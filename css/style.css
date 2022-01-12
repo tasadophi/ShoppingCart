@@ -8,12 +8,12 @@
 /* fonts */
 @font-face {
   font-family: "vazir";
-  src: url("/assets/font/Farsi-Digits/Vazir-FD.woff");
+  src: url(../assets/font/Farsi-Digits/Vazir-FD.woff);
 }
 
 @font-face {
   font-family: "vazirBold";
-  src: url("/assets/font/Farsi-Digits/Vazir-Bold-FD.woff");
+  src: url(../assets/font/Farsi-Digits/Vazir-Bold-FD.woff);
 }
 
 /* variables */
