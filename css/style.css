@@ -257,6 +257,8 @@ img {
 }
 .cart-btns button {
   padding: 1rem 3rem;
+  height: 4.5rem;
+  white-space: nowrap;
   background-color: var(--colorPrimary);
   color: var(--colorSecondary);
 }
